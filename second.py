@@ -10,6 +10,10 @@ print(y)
 print(z)
 print(i)
 
-if 4 > 33:
-    print("four grater than thirty three")
-    print("thirty three is grater than four")
+if 5>3:
+    print("Five is grater that three")
+    print("Three is less than five")
+
+# \n [use case]
+
+print("My name is Abdullah Al Noman \nand Moule is my Soulmate") # here i also use comment and new line or line break 
