@@ -4,7 +4,12 @@ print(type(a))
 
 JobTitle = ["Frontend Development" , "AI/ML" , "Backend Development" , "DSA"]
 x, y, z , i = JobTitle
+
 print(x)
 print(y)
 print(z)
 print(i)
+
+if 4 > 33:
+    print("four grater than thirty three")
+    print("thirty three is grater than four")
